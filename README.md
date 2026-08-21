@@ -396,8 +396,6 @@ Resume Parsing
 
 **Sanika Gajarishi**
 
-B.Tech Artificial Intelligence & Data Science
-
 GitHub
 
 https://github.com/Sanika-Gajarishi
